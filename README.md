@@ -1,2 +1,2 @@
 # Python
-my learn from python 
+my studies from python 
